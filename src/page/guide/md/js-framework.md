@@ -27,12 +27,4 @@
 - [官方文档](https://vuejs.bootcss.com/guide/)
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 
-## Angular相关
 
-> 一套用于移动端 & 桌面端的开发框架
-
-- [官方文档](https://angular.cn/docs)
-  
-### 📚 书籍
-
-没发现很好的书，暂不推荐
